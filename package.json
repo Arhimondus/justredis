@@ -1,0 +1,13 @@
+{
+  "name": "justredis",
+  "version": "1.0.0",
+  "description": "Redis 3.0 binaries for Windows",
+  "bin": {
+    "redis-benchmark": "./redis-benchmark.exe",
+	"redis-check-aof": "./redis-check-aof.exe",
+	"redis-check-dump": "./redis-check-dump.exe",
+	"redis-cli": "./redis-cli.exe",
+	"redis-server": "./redis-server.exe"
+  },
+  "license": "WTFPL"
+}
