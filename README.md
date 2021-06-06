@@ -1,9 +1,9 @@
 # justredis
 Redis 3.0 binaries for Windows
 
-`yarn add arhimondus/justredis`
+`yarn -D add arhimondus/justredis`
 
-`pnpm add arhimondus/justredis`
+`pnpm -D add arhimondus/justredis`
 
 Direct run
 
